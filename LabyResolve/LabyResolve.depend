@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1521580862 source:d:\dev\c\labyresolve\draw.c
+	"prototypes.h"
+
+1522366812 d:\dev\c\labyresolve\prototypes.h
+	"struct.h"
+
+1522364915 d:\dev\c\labyresolve\struct.h
+	"defs.h"
+
+1522367219 d:\dev\c\labyresolve\defs.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_mixer.h>
+
+1522322183 source:d:\dev\c\labyresolve\event.c
+	"prototypes.h"
+
+1522367245 source:d:\dev\c\labyresolve\init.c
+	"prototypes.h"
+
+1521555547 source:d:\dev\c\labyresolve\input.c
+	"prototypes.h"
+
+1522362241 source:d:\dev\c\labyresolve\main.c
+	"prototypes.h"
+
+1522367281 source:d:\dev\c\labyresolve\panels.c
+	"prototypes.h"
+
+1522366449 source:d:\dev\c\labyresolve\gestion.c
+	"struct.h"
+
